@@ -1,0 +1,5 @@
+from google.colab import drive
+drive.mount('/content/drive')
+
+# Define the correct path
+data_dir = "/content/drive/MyDrive/CASIA2"
